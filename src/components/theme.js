@@ -9,6 +9,7 @@ export const theme = {
     bgTable: '#edf1f6',
     offline: '#ef0119',
     online: '#18b201',
+    dimGray: '#A9A9A9',
   },
   space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
   fonts: {
